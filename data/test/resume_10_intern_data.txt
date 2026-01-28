@@ -1,0 +1,24 @@
+Samir Patel - Intern Data Analyst
+
+Summary:
+Final-year student with a passion for data storytelling and visualization looking for career start.
+
+Skills:
+- Python (Pandas, Matplotlib), SQL (Basic)
+- Excel (VLOOKUP, Pivot Tables)
+- Tableau, Power BI
+- Statistical Analysis
+- Communication & Presentation
+
+Experience:
+Data Intern at RetailFlow (Summer 2023)
+- Analyzed sales trends and presented findings to management.
+- Cleaned and prepared large datasets for visualization.
+- Created dashboards using Tableau to track daily KPIs.
+
+Research Assistant at University Lab (2022-2023)
+- Assisted in data collection for environmental research.
+- Coded survey responses and performed basic regression analysis.
+
+Education:
+BSc in Data Science (Expected 2024), Erasmus University Rotterdam

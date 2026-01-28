@@ -1,0 +1,24 @@
+Michael Chen - Frontend Specialist
+
+Summary:
+Creative Frontend Developer with 4 years of experience building responsive and interactive web applications.
+
+Skills:
+- JavaScript (ES6+), TypeScript
+- React, Redux, Next.js
+- Tailwind CSS, Framer Motion
+- Jest, React Testing Library
+- Responsive Design, Web Accessibility
+
+Experience:
+Frontend Developer at DesignHub (2021-Present)
+- Developed complex UI components for a SaaS dashboard.
+- Improved lighthouse scores from 60 to 95 for client applications.
+- Collaborated with UX designers to implement pixel-perfect designs.
+
+Junior Web Developer at StartUp Lab (2019-2021)
+- Built landing pages using HTML, CSS, and React.
+- Fixed cross-browser compatibility issues.
+
+Education:
+BS in Interaction Design, Rotterdam University of Applied Sciences

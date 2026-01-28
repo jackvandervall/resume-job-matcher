@@ -1,0 +1,24 @@
+Kevin O'Connor - IT Project Manager
+
+Summary:
+PMP-certified Project Manager with a technical background, bridge between business and engineering.
+
+Skills:
+- Agile, Scrum, Kanban
+- Jira, Confluence, Trello, MS Project
+- Stakeholder Management, Budgeting
+- Risk Assessment, Product Roadmap
+- SDLC Knowledge
+
+Experience:
+Senior Project Manager at Global Systems (2018-Present)
+- Delivered 5 large-scale software projects on time and under budget.
+- Facilitated daily standups and sprint planning for 3 engineering teams.
+- Negotiated with vendors and internal stakeholders for project resources.
+
+Agile Coach at Software House (2015-2018)
+- Guided teams in transitioning from Waterfall to Agile methodologies.
+- Improved team velocity by 30% through process optimization.
+
+Education:
+MBA in Information Management, Tilburg University

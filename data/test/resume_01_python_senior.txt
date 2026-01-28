@@ -1,0 +1,24 @@
+Alice Thompson - Senior Python Developer
+
+Summary:
+Full-stack developer with 8 years of experience specializing in Python backend systems and data engineering.
+
+Skills:
+- Python, Django, Flask, FastAPI
+- PostgreSQL, Redis, Celery
+- AWS (EC2, RDS, S3), Docker, Kubernetes
+- Pandas, NumPy, Scikit-learn
+- RESTful APIs, Microservices
+
+Experience:
+Senior Developer at CloudScale (2020-Present)
+- Led the migration from monolithic architecture to microservices using Python.
+- Optimized database queries resulting in 40% faster load times.
+- Mentored junior developers and established code review standards.
+
+Software Engineer at WebWorks (2016-2020)
+- Developed backend features for high-traffic e-commerce platforms.
+- Integrated third-party payment gateways and shipping APIs.
+
+Education:
+MS in Computer Science, Delft University of Technology

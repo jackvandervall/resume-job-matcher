@@ -1,0 +1,18 @@
+[project]
+name = "resume-job-matcher"
+version = "0.1.0"
+description = "ML-powered resume-to-job description matching using semantic similarity"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "ipykernel>=6.30.1",
+    "jupyter>=1.1.1",
+    "nltk>=3.9.1",
+    "pandas>=2.3.2",
+    "sentence-transformers>=5.1.0",
+    "spacy>=3.8.7",
+    "streamlit>=1.45.0",
+    "scikit-learn>=1.6.0",
+    "transformers",
+    "tqdm",
+]

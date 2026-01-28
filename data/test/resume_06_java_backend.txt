@@ -1,0 +1,24 @@
+James de Vries - Java Backend Developer
+
+Summary:
+Robust backend engineer with 6 years of experience in enterprise Java applications.
+
+Skills:
+- Java 17, Spring Boot, Hibernate
+- Microservices, Kafka, RabbitMQ
+- MySQL, Oracle DB, NoSQL
+- Maven, Gradle, Jenkins
+- JUnit, Mockito, Integration Testing
+
+Experience:
+Backend Engineer at FinTech Solutions (2021-Present)
+- Developed secure transaction processing engines using Spring Boot.
+- Implemented event-driven architecture using Kafka.
+- Optimized API performance for banking applications.
+
+Software Developer at Enterprise Systems (2018-2021)
+- Maintained legacy Java EE applications.
+- Migrated core services to Spring-based microservices.
+
+Education:
+BSc in Software Engineering, Fontys University of Applied Sciences

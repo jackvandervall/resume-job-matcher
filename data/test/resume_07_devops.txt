@@ -1,0 +1,24 @@
+Lisa Nguyen - DevOps Engineer
+
+Summary:
+Cloud infrastructure enthusiast dedicated to automation, scalability, and reliable deployments.
+
+Skills:
+- Terraform, Ansible, CloudFormation
+- Azure, GCP, AWS
+- CI/CD (GitHub Actions, GitLab CI, Azure DevOps)
+- Linux SysAdmin, Bash Scripting, Python
+- Monitoring (Prometheus, Grafana, ELK Stack)
+
+Experience:
+DevOps Engineer at Infrastructure Co (2020-Present)
+- Automated cloud resource provisioning using Terraform.
+- Reduced deployment time from 1 hour to 10 minutes via CI/CD pipelines.
+- Implemented 24/7 monitoring and alerting for production clusters.
+
+SysAdmin at TechSupport Inc (2017-2020)
+- Managed on-premise Linux servers and network security.
+- Wrote Python and Bash scripts to automate routine tasks.
+
+Education:
+Higher Diploma in Network Security, The Hague University

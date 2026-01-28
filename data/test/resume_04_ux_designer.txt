@@ -1,0 +1,24 @@
+David Wilson - UX/UI Designer
+
+Summary:
+User-centric designer with 5 years of experience in mobile and web products.
+
+Skills:
+- Figma, Adobe XD, Sketch
+- User Research, Wireframing, Prototyping
+- Design Systems, Visual Identity
+- Qualitative & Quantitative testing
+- HTML/CSS (Basic)
+
+Experience:
+UX Lead at MobileFirst (2020-Present)
+- Redesigned the flagship mobile app, leading to a 15% increase in retention.
+- Conducted over 50 usability testing sessions.
+- Managed a design system used by 3 engineering teams.
+
+UI Designer at CreativeStudio (2017-2020)
+- Designed interfaces for various e-commerce and fintech clients.
+- Created icons and illustrations for brand consistency.
+
+Education:
+BA in Graphic Design, Utrecht School of the Arts

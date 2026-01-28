@@ -1,0 +1,24 @@
+Dr. Sarah Miller - Data Scientist
+
+Summary:
+Quantitative researcher and data scientist with a PhD in Statistics. Expert in predictive modeling and NLP.
+
+Skills:
+- Python, R, SQL
+- Scikit-learn, PyTorch, HuggingFace
+- NLP, Sentiment Analysis, Topic Modeling
+- Spark, Hadoop, Big Data Analytics
+- Data Visualization (Tableau, Plotly)
+
+Experience:
+Principal Data Scientist at Insights Corp (2018-Present)
+- Developed a recommender system that increased user engagement by 25%.
+- Implemented deep learning models for automated document classification.
+- Led data-driven strategy sessions with executive leadership.
+
+Data Analyst at StatSolutions (2015-2018)
+- Performed statistical audits for financial institutions.
+- Automated data cleaning pipelines using Python.
+
+Education:
+PhD in Mathematical Statistics, Leiden University
