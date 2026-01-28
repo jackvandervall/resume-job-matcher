@@ -33,8 +33,7 @@ uv run python src/embeddings/embeddings_cv.py
 uv run streamlit run app.py
 ```
 
-![Application Demo](./assets/placeholder.png)
-**[PLACEHOLDER: Dashboard view showing a resume matched against a job description with a 85% score.]**
+![Application Demo](https://github.com/user-attachments/assets/594befc1-e062-4636-8e61-ac84be07b8b9)
 
 ## Credits
 Developed by Jack van der Vall in collaboration with Najah Khalifa, Celine Scova Righini and Brendan van der Sman.
